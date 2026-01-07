@@ -1,4 +1,4 @@
-# Maithili-MT
+## Maithili-MT
 
 This repository contains the Hindi-Maithili parallel corpus created as part of the work titled "MaithiliMT: Developing Multi-domain Parallel Corpus for Hindi-Maithili Machine Translation".
 
