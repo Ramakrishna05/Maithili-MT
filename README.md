@@ -30,8 +30,6 @@ Please kindly cite the following paper if you have used our dataset:
   publisher = {Springer},
   doi     = {10.1007/s10579-025-09890-9},
   url     = {https://doi.org/10.1007/s10579-025-09890-9},
-  issn    = {1574-0218},
-  abstract = {This work describes MaithiliMT, a multi-domain parallel corpus for the Hindi--Maithili language pair. Maithili is one of the 22 scheduled languages of India and is spoken by 14 million people. Maithili and Hindi belong to the Indo-Aryan language family and share lexical and syntactic similarities. We manually analyze the available Hindi--Maithili corpus and observe that the available corpus is of poor quality and that Hindi--Maithili machine translation (MT) can benefit from additional corpora. We create additional parallel corpora for administration, judicial, education, and general domains. The newly created corpus consists of a synthetic corpus created via back-translation and manual translation of monolingual Hindi data into Maithili. We also create post-edited data by manually correcting the generated synthetic data. We follow multilingual NMT, code-mixed augmentation, and automatic post-editing approaches to train baseline neural machine translation (NMT) models. The newly created dataset is of higher quality than the existing Hindi--Maithili corpus, and the NMT results show that multilingual models give better results than the other approaches. We release the created dataset for further research and development purposes.}
-}
+  issn    = {1574-0218}
 
 ```
